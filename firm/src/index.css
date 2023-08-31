@@ -1,0 +1,27 @@
+:root{
+  --color-black: #1D1D1D;
+  --color-while: #FFFFFF;
+
+}
+*,
+*::before,
+*::after{
+  box-sizing:border-box;
+}
+*{
+  margin: 0;
+  
+}
+html,body{
+  height:100%;
+}
+body{
+width: 1440px;
+height: 6828px;
+background-color: var(--color-black);
+margin: 0;
+}
+
+
+
+ 
