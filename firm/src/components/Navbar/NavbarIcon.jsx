@@ -14,7 +14,7 @@ const NavbarIcon = () => {
   <nav className={styles.navbar}>
     <ul className={styles.navbarlinks}>
       <li>Home</li>
-      <li>About</li>
+      <li>Attorneys</li>
       <li>Services</li>
       <li>Contact</li>
     </ul>

@@ -12,7 +12,7 @@ align-items: center;
 
 .main{
     width: 387px;
-    height:174px;
+    height:auto;
     color: var(--pure-white, #FFF);
 font-family: Inter;
 font-size: 54px;

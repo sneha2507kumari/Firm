@@ -1,0 +1,66 @@
+.main {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Shift content to the left */
+    
+    align-items: center;
+    background: #171717;
+    margin-top: 120px;
+    width: 1840px; /* Keep this width */
+    height: 367px; /* Keep this height */
+  }
+  
+  .mainwrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 180px;
+    max-width: 1200px;
+    width: 100%;
+    padding: 0 20px;
+    margin-right: 250px;
+  }
+  
+  .navbarlinks {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    color: var(--pure-white, #FFF);
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26.004px;
+    margin: 0;
+  }
+  
+  .navbarlinks li {
+    margin: 0;
+  }
+  
+  .wrapperimg {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+  }
+  
+  /* Optionally, you can add styles for the images */
+  .wrapperimg img {
+    max-height: 24px;
+  }
+
+  .extra {
+    display: flex;
+    flex-direction: row;
+    justify-content: center; /* Center content horizontally */
+    text-align: center;
+    margin-right: 250px;
+    gap: 5px;
+    color: #FFF;
+    font-family: Helvetica Now Display;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 142.857% */
+  }

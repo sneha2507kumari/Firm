@@ -5,7 +5,7 @@ const Intro = () => {
   return (
     <div className={styles.container}>
         <div className={styles.main}>
-            <h4>Let’s Introduce Ourself</h4>
+            Let’s Introduce Ourself
         </div>
         <div className={styles.line}></div> 
         <div className={styles.submain}>
